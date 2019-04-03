@@ -1,0 +1,6 @@
+---
+applications:
+  - name: fleamarket-cloud-config-server
+    path: target/fleamarket-cloud-config-server-0.0.1-SNAPSHOT.jar
+    memory: 650M
+    disk_quota: 150M
